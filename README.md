@@ -1,5 +1,7 @@
 # Parapluieinfo Profile
 
+[![Continuous Integration](https://github.com/Parapluieinfo/.github/actions/workflows/ci.yaml/badge.svg)](https://github.com/Parapluieinfo/.github/blob/master/.github/workflows/ci.yaml)
+
 ## Visual Studio Code
 
 1. Install [VSCode](https://code.visualstudio.com/download)
