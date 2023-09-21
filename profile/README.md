@@ -1,3 +1,3 @@
-# Parapluieinfo Profile
+# Parapluieinfo Public Profile
 
-Test profile...
+Hello Public World!
